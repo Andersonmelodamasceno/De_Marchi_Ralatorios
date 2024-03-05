@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -69,6 +70,13 @@ namespace De_Marchi_Relatorios
 
         private void comboBoxBase5_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Consulta new_pesq = new Consulta();
+            sfDataGrid1.DataSource = new_pesq.RealizarConsulta(DateTime.Parse("2023-12-01"), DateTime.Parse("2023-12-31"),1);
 
         }
     }

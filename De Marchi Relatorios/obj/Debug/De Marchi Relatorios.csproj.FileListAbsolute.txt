@@ -101,3 +101,57 @@ C:\Users\Anderson\Desktop\De Marchi Relatorios\De Marchi Relatorios\obj\Debug\De
 C:\Users\Anderson\Desktop\De Marchi Relatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.csproj.CopyComplete
 C:\Users\Anderson\Desktop\De Marchi Relatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.exe
 C:\Users\Anderson\Desktop\De Marchi Relatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.pdb
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\De Marchi Relatorios.exe.config
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\De Marchi Relatorios.exe
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\De Marchi Relatorios.pdb
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Data.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Data.WPF.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfGrid.WPF.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SpellChecker.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Microsoft.SqlServer.Server.pdb
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Microsoft.SqlServer.Server.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Data.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Data.WPF.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Grid.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Grid.Windows.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfGrid.WPF.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.Windows.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.SpellChecker.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Tools.Base.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\Syncfusion.Tools.Windows.xml
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De_Marchi_Relatorios.Form1.resources
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De_Marchi_Relatorios.Properties.Resources.resources
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.csproj.CopyComplete
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.exe
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.pdb
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De_Marchi_Relatorios.Form2.resources
