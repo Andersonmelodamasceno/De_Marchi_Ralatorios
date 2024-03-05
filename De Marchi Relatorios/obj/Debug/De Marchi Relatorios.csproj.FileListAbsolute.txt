@@ -155,3 +155,6 @@ C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Ma
 C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.exe
 C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De Marchi Relatorios.pdb
 C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De_Marchi_Relatorios.Form2.resources
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\De_Marchi_Relatorios.Form2.af-NA.resources
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\bin\Debug\af-NA\De Marchi Relatorios.resources.dll
+C:\Users\Admin\Desktop\De_Marchi_Ralatorios\De Marchi Relatorios\obj\Debug\af-NA\De Marchi Relatorios.resources.dll

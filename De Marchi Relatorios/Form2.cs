@@ -23,5 +23,10 @@ namespace De_Marchi_Relatorios
             dataGridView1.DataSource = new_pesq.RealizarConsulta(DateTime.Parse("2023-01-01"), DateTime.Parse("2023-12-31"), 1);
 
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
