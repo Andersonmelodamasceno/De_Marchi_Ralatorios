@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De Marchi Relatorios", "De Marchi Relatorios\De Marchi Relatorios.csproj", "{98543F2A-35DD-43A2-918B-2EFBC2AB52CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98543F2A-35DD-43A2-918B-2EFBC2AB52CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98543F2A-35DD-43A2-918B-2EFBC2AB52CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98543F2A-35DD-43A2-918B-2EFBC2AB52CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98543F2A-35DD-43A2-918B-2EFBC2AB52CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732A158B-6103-4B17-A9DC-2001E9BFC0A6}
+	EndGlobalSection
+EndGlobal
